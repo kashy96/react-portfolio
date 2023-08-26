@@ -1,0 +1,51 @@
+{
+    "skills": [
+        { 
+          "id": "HTML5_skill",
+          "content": "HTML5", 
+          "percentage": "80%", 
+          "value": "80" 
+        },
+        { 
+          "id": "CSS3_skill", 
+          "content": "CSS3", 
+          "percentage": "75%", 
+          "value": "75" }
+        ,
+        {
+          "id": "JavaScript_skill",
+          "content": "JavaScript",
+          "percentage": "90%",
+          "value": "90"
+        },
+        {   
+          "id": "PHP_skill", 
+          "content": "PHP", 
+          "percentage": "90%", 
+          "value": "90" },
+        {
+          "id": "ReactJS_skill",
+          "content": "ReactJS",
+          "percentage": "70%",
+          "value": "70"
+        },
+        {
+          "id": "laravel_skill",
+          "content": "Laravel",
+          "percentage": "95%",
+          "value": "95"
+        },
+        {
+          "id": "Vue_js",
+          "content": "Vue js",
+          "percentage": "85%",
+          "value": "85"
+        },
+        {
+          "id": "Graphql_skill",
+          "content": "GraphQL",
+          "percentage": "80%",
+          "value": "80"
+        }
+      ]
+}

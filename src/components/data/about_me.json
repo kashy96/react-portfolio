@@ -1,0 +1,14 @@
+{
+   "aboutMe":[
+    {
+        "id": "first-p-about",
+        "content":
+          " 3 years of professional experience in web developer. Currently work as a Development Team lead at PkTeam. Experience with software development environment. Excellent eyes and hands at finding and correcting errors in code."
+      },
+      {
+        "id": "second-p-about",
+        "content":
+          " Excellent Command on Laravel, HTML5, CSS3, PHP7, JavaScript, React.js, jQuery, Vue.js, Nuxt.js, GraphQL, MySQL, Ajax. TDD & Unit testing. Worked on APIs (Rest and soap). Good understanding of Git and Jira."
+      }
+   ]
+}

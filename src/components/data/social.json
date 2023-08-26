@@ -1,0 +1,7 @@
+{
+    "social":[
+        {"id":"gmail_key","reference":"mailto:engrmuhammadkashif96@gmail.com","class":"ion-email"},
+        {"id":"github_key","reference":"https://github.com/kashy96","class":"ion-social-github"},
+        {"id":"linkedIn_key","reference":"https://www.linkedin.com/in/muhammad-kashif-928655142/","class":"ion-social-linkedin"}
+    ]
+}
